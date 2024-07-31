@@ -1,1 +1,1 @@
-Olá, tudo bem? Este é um arquivo de conflito
+Olá tudo bem? Este é um arquivo de conflito.
